@@ -1,6 +1,6 @@
 # Weather_Data_ETL_Pipeline
 
-This project fetches weather data from any City (example: Berlin) using the OpenWeather API, transforms it to a data frame and loads it to a PostgreSQL database.
+This project fetches weather data from any city (for example, Berlin) using the OpenWeather API, transforms it to a data frame, and loads it into a PostgreSQL database.
 
 ## Setup 
 
